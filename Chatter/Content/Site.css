@@ -1,5 +1,6 @@
 ﻿body {
     padding-bottom: 20px;
+   
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -27,15 +28,19 @@ textarea {
 header {
     padding-top: 20px;
     height: 10em;
-    background-color: pink;
+    background-color: white;
+    background-image: url('Images/pink-1996898_960_720.jpg');
+    background-position: top left;
 }
 
-header h1{
-    position: absolute;
-    width: 100%;
-    text-align: center;
-    color: white;
-    font-size: 50px;
+    header h1 {
+        position: absolute;
+        width: 100%;
+        text-align: center;
+        color: grey;
+        font-size: 50px;
+    
+       
     }
 
 .btnHeader {
